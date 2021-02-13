@@ -12,7 +12,7 @@
   color: #000;
   transform: translate(-50%, -50%);
   border: 1px solid #000;
-  width: 200px;
+  width: 300px;
   height: 50vh;
   display: flex;
   flex-direction: column;
@@ -20,7 +20,12 @@
   justify-content: flex-start;
   font-size: calc(10px + 2vmin);
 }
-
-.App-date{
+.App-date {
   margin-top: auto;
+}
+
+@media (max-width: 540px) {
+  .App-wrapper {
+    width: 200px;
+  }
 }
