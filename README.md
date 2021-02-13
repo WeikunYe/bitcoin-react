@@ -8,7 +8,7 @@ The most challenging part is using axios to send GET request and mount the data 
 
 To overcome it, I researched sereval documents and some axios example.
 
-### If taken again, what would you have done better? 
+## If taken again, what would you have done better? 
 
 One of the improvements could be:
 
